@@ -3,7 +3,7 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# TutorialsPoint project
+# TutorialsPoint MySQL
 
 ![tutorialspoint image](images/tutorialspoint.png)
 
@@ -16,10 +16,10 @@ Learn everything you need to about the subject of this `Tutorialspoint` project.
 ## Topics
 ```
 Learn MySQL
-[ ] Home
-[ ] Introduction
-[ ] Installation
-[ ] Administration
+[x] Home
+[x] Introduction
+[x] Installation
+[x] Administration
 [ ] PHP Syntax
 [ ] Connection
 [ ] Create Database
